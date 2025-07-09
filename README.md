@@ -10,3 +10,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 👉 **[View the Surprise Website](https://proposal-chi-smoky.vercel.app/)**  
 
 ## ✨ Features
+- 🎆 **Animated Introduction** with a glowing neon style
