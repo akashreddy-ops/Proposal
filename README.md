@@ -11,3 +11,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 
 ## ✨ Features
 - 🎆 **Animated Introduction** with a glowing neon style
+- 📝 **Personalized Name Input**
