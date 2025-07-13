@@ -14,3 +14,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - 📝 **Personalized Name Input**
 - ⏳ **Countdown to the Surprise Reveal**
 - 📸 **Polaroid Photo Display**
+- 💌 **Heartfelt Custom Message Modal**
