@@ -15,3 +15,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - ⏳ **Countdown to the Surprise Reveal**
 - 📸 **Polaroid Photo Display**
 - 💌 **Heartfelt Custom Message Modal**
+- 🎵 **Romantic Background Music** (plays Uyirey.mp3)
