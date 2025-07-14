@@ -17,3 +17,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - 💌 **Heartfelt Custom Message Modal**
 - 🎵 **Romantic Background Music** (plays Uyirey.mp3)
 - 🎨 **Fully Animated Proposal Scene** in `propose.html`
+- 💘 **SVG Characters, Stars, Hearts, and Rose animations**
