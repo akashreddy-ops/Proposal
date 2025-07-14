@@ -16,3 +16,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - 📸 **Polaroid Photo Display**
 - 💌 **Heartfelt Custom Message Modal**
 - 🎵 **Romantic Background Music** (plays Uyirey.mp3)
+- 🎨 **Fully Animated Proposal Scene** in `propose.html`
