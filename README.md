@@ -19,3 +19,5 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - 🎨 **Fully Animated Proposal Scene** in `propose.html`
 - 💘 **SVG Characters, Stars, Hearts, and Rose animations**
 ---
+
+## 🧰 Tech Stack
