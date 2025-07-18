@@ -22,3 +22,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 
 ## 🧰 Tech Stack
 - **HTML5**
+- **CSS3 (Custom & Animate.css)**
