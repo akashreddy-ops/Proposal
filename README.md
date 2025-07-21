@@ -24,3 +24,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - **HTML5**
 - **CSS3 (Custom & Animate.css)**
 - **JavaScript (Vanilla + GSAP)**
+- **SVG Graphics**
