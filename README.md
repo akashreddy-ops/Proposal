@@ -26,3 +26,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - **JavaScript (Vanilla + GSAP)**
 - **SVG Graphics**
 - **Responsive Design**
+-  **Audio Playback**
