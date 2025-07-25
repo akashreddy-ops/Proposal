@@ -29,3 +29,5 @@ This project is a creative and heartfelt **interactive web experience**, built t
 -  **Audio Playback**
 
 ---
+
+## 📁 Project Structure
