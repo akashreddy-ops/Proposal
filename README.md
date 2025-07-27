@@ -32,4 +32,5 @@ This project is a creative and heartfelt **interactive web experience**, built t
 
 ## 📁 Project Structure
 📂 my-special-web-surprise/
+
 ├── index.html # Entry point with animation, message, and music
