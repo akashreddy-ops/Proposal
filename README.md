@@ -39,4 +39,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 
 ├── Uyirey.mp3 # Background romantic song
 
-##🧡 Special Notes
+## 🧡 Special Notes
