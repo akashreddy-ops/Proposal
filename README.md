@@ -38,3 +38,5 @@ This project is a creative and heartfelt **interactive web experience**, built t
 ├── propose.html # Love story scene with SVG characters and heart effects
 
 ├── Uyirey.mp3 # Background romantic song
+
+🧡 Special Notes
