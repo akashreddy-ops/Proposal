@@ -40,3 +40,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 ├── Uyirey.mp3 # Background romantic song
 
 ## 🧡 Special Notes
+- This project is not just code—it’s emotion, creativity, and a memory captured in a digital form.
