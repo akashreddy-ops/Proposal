@@ -43,3 +43,5 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - This project is not just code—it’s emotion, creativity, and a memory captured in a digital form.
 - Designed as a gift or surprise, perfect for Valentine's Day, anniversaries, or proposals.
 - Easily customizable with your own message, images, or music.
+
+## 🌍 Social Links
