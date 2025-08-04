@@ -45,3 +45,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - Easily customizable with your own message, images, or music.
 
 ## 🌍 Social Links
+- 🔗 LinkedIn
