@@ -45,4 +45,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - Easily customizable with your own message, images, or music.
 
 ## 🌍 Social Links
-- 🔗 LinkedIn
+- 🔗 LinkedIn(https://www.linkedin.com/in/akash-reddy-a761b3321/)
