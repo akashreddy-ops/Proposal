@@ -46,4 +46,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 
 ## 🌍 Social Links
 - 🔗 LinkedIn(https://www.linkedin.com/in/akash-reddy-a761b3321/)
-- 💻 GitHub
+- 💻 GitHub(https://github.com/akashreddy-ops)
