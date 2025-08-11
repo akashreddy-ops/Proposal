@@ -48,3 +48,6 @@ This project is a creative and heartfelt **interactive web experience**, built t
 - 🔗 LinkedIn(https://www.linkedin.com/in/akash-reddy-a761b3321/)
 - 💻 GitHub(https://github.com/akashreddy-ops)
 - 📸 Instagram(https://www.instagram.com/_.xshu.5/)
+
+## 📃 License
+This project is for personal and educational use. You are free to modify and share it with credit.
