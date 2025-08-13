@@ -53,3 +53,4 @@ This project is a creative and heartfelt **interactive web experience**, built t
 This project is for personal and educational use. You are free to modify and share it with credit.
 
 ## 🙌 Author
+Crafted with ❤️ by [Danapana Akash Reddy]
