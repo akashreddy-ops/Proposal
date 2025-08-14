@@ -54,3 +54,4 @@ This project is for personal and educational use. You are free to modify and sha
 
 ## 🙌 Author
 Crafted with ❤️ by [Danapana Akash Reddy]
+First-year student, web developer & romantic coder.
